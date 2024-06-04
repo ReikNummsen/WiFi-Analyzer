@@ -9,7 +9,7 @@ Getting signal strength ... Done!
 16 bytes written successfully:
 Value: 1
 Ping: 13ms
-Signal strength: -45dBm"
+Signal strength: -45dBm
 ```
 
 **Example .csv output file:**
