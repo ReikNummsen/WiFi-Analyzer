@@ -2,7 +2,8 @@
 **Masure signal trength and RTT and add it into a .csv file.**
 
 **Example output:**
-```Value: 1
+```
+Value: 1
 Pinging ... Done!
 Getting signal strength ... Done!
 
