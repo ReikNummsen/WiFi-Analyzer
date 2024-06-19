@@ -1,5 +1,5 @@
 # WiFi-Analyzer
-**Masure signal trength and RTT and add it into a .csv file.**
+**Masure signal strength and RTT and add it into a .csv file.**
 
 **Example output:**
 ```
